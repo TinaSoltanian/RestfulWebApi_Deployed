@@ -1,0 +1,5 @@
+E:\Projects\RestWebApiCSharpDeployed\WebApp
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=WebApp
+--content-root=E:\Projects\RestWebApiCSharpDeployed\WebApp
+--file=

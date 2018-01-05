@@ -1,0 +1,99 @@
+2018-01-04 00:11:43.5705|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:11:43.6158|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:11:52.3262|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:11:52.3381|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:12:07.1798|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:12:07.1798|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:12:57.2121|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:12:57.2475|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:13:07.9301|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:13:07.9301|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:17:54.3338|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:17:54.3814|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:18:06.4185|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:18:06.4320|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:18:31.3841|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:18:31.3989|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:18:42.2813|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:18:42.2885|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:19:17.3343|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:19:17.3726|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:19:33.6861|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:19:33.7013|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:19:58.2738|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:19:58.3136|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:20:16.0080|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:20:16.0080|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:21:41.0745|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:21:41.1179|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:32:08.7700|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:32:08.8082|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:32:11.2081|500|Global exception logger|ERROR|  Value cannot be null.
+Parameter name: ordering Value cannot be null.
+Parameter name: ordering|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:32:20.0705|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:32:20.0705|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:32:24.8608|500|Global exception logger|ERROR|  Value cannot be null.
+Parameter name: ordering Value cannot be null.
+Parameter name: ordering|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:33:19.5885|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:33:19.6336|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:33:35.9834|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:33:35.9990|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:33:43.2094|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:33:43.2094|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:33:47.4077|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:33:47.4171|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:53:54.5955|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:53:54.6336|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:56:40.8001|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:56:40.8418|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:59:59.1598|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 00:59:59.1915|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 01:00:40.4960|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 01:00:40.5320|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 01:01:54.3546|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 01:01:54.3669|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 10:17:00.5218|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 10:17:00.5588|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 10:17:10.5896|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 10:17:10.6036|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 10:17:26.7738|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 10:17:28.8860|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 10:17:36.8345|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 10:17:38.2729|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 21:12:59.5624|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/swagger/v1/swagger.json|action: 
+2018-01-04 21:13:04.2523|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/swagger/v1/swagger.json|action: 
+2018-01-04 21:13:37.5499|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/swagger/v1/swagger.json|action: 
+2018-01-04 21:14:31.7378|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/swagger/v1/swagger.json|action: 
+2018-01-04 21:14:55.0116|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/swagger/v1/swagger.json|action: 
+2018-01-04 21:15:04.1127|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/api/customer|action: 
+2018-01-04 21:15:04.3244|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/favicon.ico|action: 
+2018-01-04 21:33:31.0568|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/swagger/v1/swagger.json|action: 
+2018-01-04 21:33:47.7391|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/api/customer|action: 
+2018-01-04 21:35:01.1927|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/api/customer|action: 
+2018-01-04 21:40:17.4707|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/swagger/v1/swagger.json|action: 
+2018-01-04 21:44:52.7784|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/api/customer|action: 
+2018-01-04 21:44:59.0938|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/api/customer|action: 
+2018-01-04 21:45:15.1076|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/api/customer|action: 
+2018-01-04 21:45:19.9255|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/api/customer|action: 
+2018-01-04 21:45:24.9524|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/api/customer|action: 
+2018-01-04 21:46:35.3130|500|Global exception logger|ERROR|  The AuthorizationPolicy named: 'resourcesAdmin' was not found. The AuthorizationPolicy named: 'resourcesAdmin' was not found.|url: http://localhost/api/customer|action: 
+2018-01-04 21:49:45.7025|500|Global exception logger|ERROR|  No authenticationScheme was specified, and there was no DefaultChallengeScheme found. No authenticationScheme was specified, and there was no DefaultChallengeScheme found.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 21:50:03.7425|500|Global exception logger|ERROR|  No authenticationScheme was specified, and there was no DefaultChallengeScheme found. No authenticationScheme was specified, and there was no DefaultChallengeScheme found.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 22:55:49.2613|500|Global exception logger|ERROR|  IDX10803: Unable to obtain configuration from: 'http://localhost:55870/.well-known/openid-configuration'. IDX10803: Unable to obtain configuration from: 'http://localhost:55870/.well-known/openid-configuration'.|url: http://localhost/api/customer|action: 
+2018-01-04 22:56:25.0465|500|Global exception logger|ERROR|  IDX10803: Unable to obtain configuration from: 'http://localhost:55870/.well-known/openid-configuration'. IDX10803: Unable to obtain configuration from: 'http://localhost:55870/.well-known/openid-configuration'.|url: http://localhost/api/customer|action: 
+2018-01-04 22:56:39.2829|500|Global exception logger|ERROR|  IDX10803: Unable to obtain configuration from: 'http://localhost:55870/.well-known/openid-configuration'. IDX10803: Unable to obtain configuration from: 'http://localhost:55870/.well-known/openid-configuration'.|url: http://localhost/api/customer|action: 
+2018-01-04 23:05:24.9784|500|Global exception logger|ERROR|  No authenticationScheme was specified, and there was no DefaultChallengeScheme found. No authenticationScheme was specified, and there was no DefaultChallengeScheme found.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 23:05:45.8689|500|Global exception logger|ERROR|  No authenticationScheme was specified, and there was no DefaultChallengeScheme found. No authenticationScheme was specified, and there was no DefaultChallengeScheme found.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 23:15:09.7671|9|IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler|DEBUG|  AuthenticationScheme: Bearer was not authenticated. |url: http://localhost/swagger/|action: 
+2018-01-04 23:15:10.0295|9|IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler|DEBUG|  AuthenticationScheme: Bearer was not authenticated. |url: http://localhost/swagger/v1/swagger.json|action: 
+2018-01-04 23:15:36.1641|8|IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler|INFO|  AuthenticationScheme: Bearer was successfully authenticated. |url: http://localhost/api/customer|action: 
+2018-01-04 23:15:36.3185|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 23:15:43.9214|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 23:18:52.7434|8|IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler|INFO|  AuthenticationScheme: Bearer was successfully authenticated. |url: http://localhost/api/customer2|action: 
+2018-01-04 23:19:25.0102|8|IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler|INFO|  AuthenticationScheme: Bearer was successfully authenticated. |url: http://localhost/api/customer|action: 
+2018-01-04 23:19:25.0413|13|IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler|INFO|  AuthenticationScheme: Bearer was forbidden. |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 23:20:52.9161|8|IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler|INFO|  AuthenticationScheme: Bearer was successfully authenticated. |url: http://localhost/api/customer|action: 
+2018-01-04 23:20:52.9328|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-04 23:20:56.5018|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/customer|action: GetAllCustomer

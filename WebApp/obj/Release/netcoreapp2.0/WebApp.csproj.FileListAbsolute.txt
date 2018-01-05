@@ -1,0 +1,13 @@
+E:\Projects\RestWebApiCSharpDeployed\WebApp\bin\Release\netcoreapp2.0\nlog.config
+E:\Projects\RestWebApiCSharpDeployed\WebApp\bin\Release\netcoreapp2.0\appsettings.json
+E:\Projects\RestWebApiCSharpDeployed\WebApp\bin\Release\netcoreapp2.0\WebApp.deps.json
+E:\Projects\RestWebApiCSharpDeployed\WebApp\bin\Release\netcoreapp2.0\WebApp.runtimeconfig.json
+E:\Projects\RestWebApiCSharpDeployed\WebApp\bin\Release\netcoreapp2.0\WebApp.runtimeconfig.dev.json
+E:\Projects\RestWebApiCSharpDeployed\WebApp\bin\Release\netcoreapp2.0\WebApp.dll
+E:\Projects\RestWebApiCSharpDeployed\WebApp\bin\Release\netcoreapp2.0\WebApp.pdb
+E:\Projects\RestWebApiCSharpDeployed\WebApp\obj\Release\netcoreapp2.0\WebApp.csprojResolveAssemblyReference.cache
+E:\Projects\RestWebApiCSharpDeployed\WebApp\obj\Release\netcoreapp2.0\WebApp.csproj.CoreCompileInputs.cache
+E:\Projects\RestWebApiCSharpDeployed\WebApp\obj\Release\netcoreapp2.0\WebApp.AssemblyInfoInputs.cache
+E:\Projects\RestWebApiCSharpDeployed\WebApp\obj\Release\netcoreapp2.0\WebApp.AssemblyInfo.cs
+E:\Projects\RestWebApiCSharpDeployed\WebApp\obj\Release\netcoreapp2.0\WebApp.dll
+E:\Projects\RestWebApiCSharpDeployed\WebApp\obj\Release\netcoreapp2.0\WebApp.pdb

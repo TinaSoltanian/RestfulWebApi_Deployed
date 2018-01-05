@@ -1,0 +1,155 @@
+2018-01-03 09:03:44.9546|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 09:03:44.9720|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 14:35:10.7354|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 14:37:40.1055|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 14:38:04.1910|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 14:42:51.6025|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 14:46:11.6964|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 14:46:59.1587|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 14:47:06.3849|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 17:32:26.3753|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 17:32:40.2079|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 17:33:35.0563|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 17:36:43.0841|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 17:37:16.4060|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 17:38:05.3776|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 17:42:45.1718|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 17:42:45.3547|500|Global exception logger|ERROR|  test test|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 18:08:43.0755|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 18:08:43.0937|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 18:08:56.0267|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/39f51c85-8fb0-4af5-9b0c-42132f6dd7d7|action: GetSingleCustomer
+2018-01-03 18:09:03.7460|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/39f51c85-8fb0-4af5-9b0c-42132f6dd7d744|action: GetSingleCustomer
+2018-01-03 18:09:11.9639|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/39f51c85-8fb0-4af5-9b0c-42132f6dd7d7|action: GetSingleCustomer
+2018-01-03 18:14:42.2274|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:15:01.1710|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:15:55.8512|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:18:08.4893|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:18:20.3893|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:21:49.4017|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:22:10.1506|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:22:10.1672|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:24:29.1008|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:25:01.1451|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:25:53.9333|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:26:41.0896|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:27:44.4185|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:27:59.6037|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:28:06.9954|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:32:54.5071|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:33:09.9754|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:37:05.4459|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:37:34.5155|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:38:09.0170|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:38:52.9136|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:39:36.9957|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:39:37.0088|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:39:49.2173|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:39:56.1161|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:40:43.4498|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:41:51.2360|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: AddCustomer
+2018-01-03 18:45:09.9998|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:45:10.0230|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:45:41.1137|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/46c1f6dd-b0d0-4907-86b1-0ed61d5b68c6|action: UpdateCustomer
+2018-01-03 18:45:51.0218|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:45:51.0218|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:47:15.9005|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/46c1f6dd-b0d0-4907-86b1-0ed61d5b68c6|action: UpdateCustomer
+2018-01-03 18:47:43.6476|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/46c1f6dd-b0d0-4907-86b1-0ed61d5b68c6|action: UpdateCustomer
+2018-01-03 18:48:07.2016|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:48:07.2156|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:48:15.4935|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/28702638-c6c7-438d-9e67-73eef2eba649|action: UpdateCustomer
+2018-01-03 18:48:43.9941|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/28702638-c6c7-438d-9e67-73eef2eba649|action: UpdateCustomer
+2018-01-03 18:48:48.8834|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:48:48.8834|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:52:02.3848|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:52:02.4020|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer/|action: GetAllCustomer
+2018-01-03 18:53:02.7266|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/c3270bbd-7cfa-4dcc-9b1d-3e8f43f5a094|action: UpdateCustomer
+2018-01-03 18:53:15.9930|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/c3270bbd-7cfa-4dcc-9b1d-3e8f43f5a094|action: PartialUpdate
+2018-01-03 18:54:08.4683|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer/c3270bbd-7cfa-4c-9b1d-3e8f43f5a094|action: PartialUpdate
+2018-01-03 20:36:23.1922|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/Customer|action: GetAllCustomer
+2018-01-03 20:36:23.2144|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/Customer|action: GetAllCustomer
+2018-01-03 20:36:41.2164|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/Customer/85347c0d-480d-4134-87dc-792f3fb7a2d1|action: Remove
+2018-01-03 20:36:57.2297|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/Customer|action: GetAllCustomer
+2018-01-03 20:36:57.2450|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/Customer|action: GetAllCustomer
+2018-01-03 21:18:32.0896|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:18:32.1336|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:18:39.0460|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:30:41.6691|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:30:49.2960|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:30:51.1507|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:31:08.4638|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:31:08.4767|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:31:18.3716|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:31:55.2639|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:31:55.2767|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:32:11.3418|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:32:26.1345|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:32:26.1474|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:32:36.2810|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:33:34.5873|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:33:34.5873|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:33:36.8523|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:34:32.6223|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:34:32.6676|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:34:35.0255|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:34:41.1940|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:34:41.2121|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:34:44.4309|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:34:57.8991|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:35:20.3922|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:35:46.0045|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:36:42.4363|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:36:56.2214|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:36:58.3192|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:37:04.4163|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:37:20.0086|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:37:35.1910|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:38:07.9540|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 21:38:10.5549|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 22:35:37.7606|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 22:35:41.4755|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 22:35:46.9090|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 22:42:33.4861|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 22:42:33.5231|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 22:42:45.2134|500|Global exception logger|ERROR|  Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement. Incorrect syntax near 'OFFSET'.
+Invalid usage of the option NEXT in the FETCH statement.|url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 22:44:27.5963|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 22:44:27.6339|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:57:11.2398|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:57:11.2769|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:23.9945|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:24.0108|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:42.6345|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:42.6518|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:46.3811|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:46.3811|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:49.7269|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:49.7269|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:52.7490|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:52.7574|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:56.6507|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/customer|action: GetAllCustomer
+2018-01-03 23:58:56.6507|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers |url: http://localhost/api/customer|action: GetAllCustomer

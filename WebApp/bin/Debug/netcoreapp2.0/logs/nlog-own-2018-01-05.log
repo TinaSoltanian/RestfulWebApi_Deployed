@@ -1,0 +1,4 @@
+2018-01-05 00:32:49.9776|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/Customer|action: GetAllCustomer
+2018-01-05 00:32:50.0370|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/Customer|action: GetAllCustomer
+2018-01-05 00:33:29.8504|0|WebApp.Controllers.CustomerController|INFO|  customercontroler has started! |url: http://localhost/api/Customer|action: GetAllCustomer
+2018-01-05 00:33:29.8658|0|WebApp.Controllers.CustomerController|INFO|  ------> GetAllCustomers version 1 |url: http://localhost/api/Customer|action: GetAllCustomer

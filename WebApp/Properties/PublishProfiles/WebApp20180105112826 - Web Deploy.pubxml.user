@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA8ZYvjcZFoUOlyWbxZLtHZwAAAAACAAAAAAAQZgAAAAEAACAAAACRj4nqHN8mLJguZh26aMGMAS/XFwH23Na6+kFSUxak9AAAAAAOgAAAAAIAACAAAADKc2wLhOVgglbyNqbAFc1JcLORhem0tx6f58J+3EC1BYAAAACkbiynOwdDVlMXWCU0Eb5IOOPqgfQXDLW4dVM+to9gjOwSQ3N1qE8uNZhNyiYd0YGPR/HpY0O5HBoOC8MgFPYKZwLnfvqamL66AV6L0dYlPh4qYor62PmZ2ft4LDGj4jY51AZtJ1k2HazGRp2sjlvH4TJa4qIigx7ez4JBQ/hAJkAAAAAtS9Ty9F50Su+prQCwe/RcOJ25AgrifEOjU5C0EBPknBVwMWF9jPZOKVvmpTIlbenaTI/0xYTcexCLowkFtayJ</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:webapp20180105112826dbserver.database.windows.net,1433;Initial Catalog=WebApp20180105112826_db;User Id=tina@webapp20180105112826dbserver;Password=alt#1234</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
